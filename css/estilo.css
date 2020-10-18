@@ -181,6 +181,7 @@ body {
 }
 #nac_imp {
     display: flex;
+    padding-bottom: 30px;
 }
 .foto_nac_imp {
 	max-width: 100%;
